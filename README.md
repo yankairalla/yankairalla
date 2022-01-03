@@ -3,7 +3,6 @@
 <a href="https://github.com/yankairalla">
   <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=yankairalla&count_private=true&show_icons=true&theme=dracula&include_all_commits" />
 </a>
-<br/>
 <a href="https://github.com/yankairalla">
   <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankairalla&layout=compact&theme=dracula" />
 </a>
